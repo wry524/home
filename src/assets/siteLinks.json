@@ -5,17 +5,17 @@
     "link": "https://gogoup.de/"
   },
   {
-    "icon": "Cloud",
+    "icon": "/images/icon/tanzhen.ico",
     "name": "探针",
     "link": "https://tz.360361.xyz/"
   },
   {
-    "icon": "LaptopCode",
+    "icon": "/images/icon/nazhadash.ico",
     "name": "NEZHA DASH",
     "link": "https://tz.gogoup.de/"
   },
   {
-    "icon": "CompactDisc",
+    "icon": "/images/icon/lsky.ico",
     "name": "图床",
     "link": "https://pic.360361.xyz/"
   },
@@ -25,7 +25,7 @@
     "link": "https://file.360361.xyz/"
   },
   {
-    "icon": "Fire",
+    "icon": "/images/icon/rebang.ico",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
   }
