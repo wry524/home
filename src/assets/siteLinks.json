@@ -6,23 +6,23 @@
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "探针",
+    "link": "https://tz.360361.xyz/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "图床",
+    "link": "https://pic.360361.xyz/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://360361.xyz/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "文件小站",
+    "link": "https://file.360361.xyz/"
   },
   {
     "icon": "Fire",
@@ -31,7 +31,7 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "NEZHA DASH",
+    "link": "https://tz.gogoup.de/"
   }
 ]
